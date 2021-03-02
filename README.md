@@ -10,8 +10,5 @@ math_expressions
 material  
 google_fonts  
 
-### Owner
-If any queries or problems, reach out to me at <ashutoshsenapati2311@gmail.com>
-
 
 
